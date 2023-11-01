@@ -1,0 +1,112 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.header1 {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 15px;
+    color: rgb(69, 64, 64);
+    margin-top: 10px;
+    padding-right: 6px;
+}
+#one {
+    background-color: #1a73e8;
+    color: #FFFFFF;
+    font-size: 14px;
+    height: 35.6px;
+    width: 96px;
+    border: transparent;
+    border-radius: 4px;
+}
+#one:hover {
+    background-color: #1a62bf;
+}
+#logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 272px;
+    height: 92px;
+    border-radius: 40px;
+}
+.logo1 {
+    height: 210px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    border-radius: 40px;
+}
+.search-box {
+    display: flex;
+    width: 582px;
+    height: 46px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 40px;
+    border:1px solid grey;
+}
+.search-box:hover {
+    box-shadow: 2px 2px 2px 2px rgb(175, 169, 169);
+}
+.mirror {
+    border-radius: 40px;
+    height: 46px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.search-middle {
+    border: transparent;
+    height: 42px;
+    width: 85%;
+}
+.search-boxa {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#two {
+    margin: 8px;
+    height: 36px;
+    width: 142px;
+    background-color: #f8f9fa;
+    border: transparent;
+    font: 14px;
+    border-radius: 4px;
+}
+#two:hover{
+    border: 1px solid rgb(182, 178, 178);
+}
+.language {
+    height: 248.5px;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    padding-top: 10px;
+    font-size: 12px;
+}
+#lang {
+    color: #1a62bf;
+}
+.foot1 {
+    color: #202124;
+    background-color: #f2f2f2;
+    height: 46px;
+    border-bottom: 1px solid rgb(204, 198, 198);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 8px;
+}
+
